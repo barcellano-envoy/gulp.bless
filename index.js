@@ -3,7 +3,7 @@
 
 var path = require('path');
 var through = require('through2');
-var bless = require('bless4');
+var bless = require('bless');
 var gutil = require('gulp-util');
 
 var PLUGIN_NAME = 'gulp.bless';
