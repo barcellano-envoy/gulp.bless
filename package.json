@@ -30,7 +30,7 @@
     "bless": "4.0.0"
   },
   "devDependencies": {
-    "bless": "git://github.com/paulyoung/bless.js.git#4.0.0-development",
+    "bless": "git://github.com/barcellano-envoy/bless.js.git#4.0.0-development",
     "mocha": "~1.20.1",
     "vinyl": "~0.2.3",
     "css": "~2.0.0"
