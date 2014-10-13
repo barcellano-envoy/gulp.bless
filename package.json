@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/2gis/gulp.bless.git"
+    "url": "git://github.com/barcellano-envoy/gulp.bless.git"
   },
   "keywords": [
     "gulpplugin",
@@ -19,15 +19,13 @@
   "author": "Andrey Rublev",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/2gis/gulp.bless/issues"
+    "url": "https://github.com/barcellano-envoy/gulp.bless/issues"
   },
-  "homepage": "https://github.com/2gis/gulp.bless",
+  "homepage": "https://github.com/barcellano-envoy/gulp.bless",
   "dependencies": {
     "through2": "~0.5.1",
-    "gulp-util": "~2.2.17"
-  },
-  "peerDependencies": {
-    "bless": "4.0.0"
+    "gulp-util": "~2.2.17",
+    "bless": "git://github.com/barcellano-envoy/bless.js.git#4.0.0-development"
   },
   "devDependencies": {
     "bless": "git://github.com/barcellano-envoy/bless.js.git#4.0.0-development",
